@@ -1,0 +1,6 @@
+*.out
+performance
+node_modules/
+package-lock.json
+Metrics*
+*.txt
